@@ -1,9 +1,10 @@
 # CODSOFT
 This repository is for codsoft intenship.
 <br>
+
+#code
 import java.util.Random;
 import java.util.Scanner;
-
 public class NumberGuessingGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
